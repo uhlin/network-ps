@@ -257,7 +257,7 @@ public class PortScanner extends JPanel implements ItemListener,
 	/* Create and set up the window */
         JFrame frame =
 	    new JFrame(String.format("Simple network portscanner %s by %s",
-				     progAuthor, progVersion));
+				     progVersion, progAuthor));
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 
 	/*
