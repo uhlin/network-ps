@@ -21,3 +21,9 @@ Provided that the JDK (Java Development Toolkit) is installed:
 ## Running ##
 
     $ java -jar pscan.jar
+
+## Installing ##
+
+    $ sudo make install
+
+(This will install the program under `/usr/local/network-ps`.)
