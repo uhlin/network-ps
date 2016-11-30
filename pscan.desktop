@@ -1,0 +1,8 @@
+[Desktop Entry]
+Categories=Network;
+Comment=Simple network portscanner
+Exec=/usr/local/network-ps/pscan
+Icon=/usr/local/network-ps/application-x-java.xpm
+Name=Portscanner
+Terminal=false
+Type=Application
