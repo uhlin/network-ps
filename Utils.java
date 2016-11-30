@@ -103,6 +103,8 @@ public class Utils {
 	    return "bgp";
 	case 443:
 	    return "https";
+	case 604:
+	    return "tunnel";
 	case 631:
 	    return "ipp";
 	case 873:
